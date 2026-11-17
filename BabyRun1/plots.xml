@@ -4,8 +4,8 @@
     <pixels>600 600</pixels>
     <origin>0 0 0</origin>
     <width>4 4</width>
-    <color id="11" rgb="70 130 180"/>
-    <color id="12" rgb="128 128 128"/>
-    <color id="13" rgb="255 255 255"/>
+    <color id="1" rgb="70 130 180"/>
+    <color id="2" rgb="128 128 128"/>
+    <color id="3" rgb="255 255 255"/>
   </plot>
 </plots>

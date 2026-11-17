@@ -1,15 +1,15 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <tallies>
-  <filter id="1" type="cell">
-    <bins>4</bins>
+  <filter id="2" type="cell">
+    <bins>1</bins>
   </filter>
-  <tally id="1" name="target_flux">
-    <filters>1</filters>
+  <tally id="3" name="target_flux">
+    <filters>2</filters>
     <scores>flux</scores>
   </tally>
-  <tally id="2" name="Gd_capture">
-    <filters>1</filters>
-    <nuclides>Gd160 Gd158</nuclides>
+  <tally id="4" name="Gd_capture">
+    <filters>2</filters>
+    <nuclides>Gd160 Gd158 Gd157 Gd156 Gd155 Gd154</nuclides>
     <scores>102</scores>
   </tally>
 </tallies>

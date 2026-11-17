@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<geometry>
+  <cell id="4" name="Gd2O3 target" material="11" region="-6 7 -8" universe="2"/>
+  <cell id="5" name="quartz support" material="12" region="-6 9 -7" universe="2"/>
+  <cell id="6" name="Helium Surroundings" material="13" region="-10 (6 | -7 | 8) (6 | -9 | 7)" universe="2"/>
+  <surface id="6" type="z-cylinder" coeffs="0.0 0.0 1"/>
+  <surface id="7" type="z-plane" coeffs="0"/>
+  <surface id="8" type="z-plane" coeffs="0.4"/>
+  <surface id="9" type="z-plane" coeffs="-0.1"/>
+  <surface id="10" type="sphere" boundary="vacuum" coeffs="0.0 0.0 0.0 10"/>
+</geometry>

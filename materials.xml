@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<materials>
+  <material id="11" name="Enriched Gd2O3 powder">
+    <density value="4.44" units="g/cm3"/>
+    <nuclide name="Gd160" ao="1.964"/>
+    <nuclide name="Gd158" ao="0.036"/>
+    <nuclide name="O16" ao="3"/>
+  </material>
+  <material id="12" name="Quartz">
+    <density value="2.65" units="g/cm3"/>
+    <nuclide name="Si28" ao="0.9222968"/>
+    <nuclide name="Si29" ao="0.0468316"/>
+    <nuclide name="Si30" ao="0.0308716"/>
+    <nuclide name="O16" ao="1.999242"/>
+    <nuclide name="O17" ao="0.000758"/>
+  </material>
+  <material id="13" name="Helium">
+    <density value="0.0001785" units="g/cm3"/>
+    <nuclide name="He4" ao="1"/>
+  </material>
+</materials>

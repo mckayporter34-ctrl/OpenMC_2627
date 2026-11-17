@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<tallies>
+  <filter id="1" type="cell">
+    <bins>4</bins>
+  </filter>
+  <tally id="1" name="target_flux">
+    <filters>1</filters>
+    <scores>flux</scores>
+  </tally>
+  <tally id="2" name="Gd_capture">
+    <filters>1</filters>
+    <nuclides>Gd160 Gd158</nuclides>
+    <scores>102</scores>
+  </tally>
+</tallies>
